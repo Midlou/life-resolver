@@ -1,0 +1,6 @@
+[
+	{ "date": "01/01/2024",	"amount": 100, 		"description":"",	"category": "Juros" },
+	{ "date": "01/01/2024",	"amount": 50.00, 	"description":"",	"category": "Pagamento" },
+	{ "date": "04/01/2024",	"amount": 2000.00, 	"description":"",	"category": "Salário" },
+	{ "date": "04/01/2024",	"amount": 5.00, 	"description":"",	"category": "Pagamento" }
+]

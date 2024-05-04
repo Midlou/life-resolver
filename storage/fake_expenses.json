@@ -1,0 +1,13 @@
+[
+	{ "date": "01/01/2024",	"amount": 140.00,	"description": "", "category": "Pessoal" },
+	{ "date": "02/01/2024",	"amount": 71.00,	"description": "", "category": "Contas" },
+	{ "date": "05/01/2024",	"amount": 200.00,	"description": "", "category": "Pessoal" },
+	{ "date": "06/01/2024",	"amount": 63.00,	"description": "", "category": "Pessoal" },
+	{ "date": "08/01/2024",	"amount": 176.00,	"description": "", "category": "Pessoal" },
+	{ "date": "10/01/2024",	"amount": 33.00,	"description": "", "category": "Pessoal" },
+	{ "date": "10/01/2024",	"amount": 200.00,		"description": "", "category": "Crédito_Fatura" },
+	{ "date": "11/01/2024",	"amount": 13.00,	"description": "", "category": "Pessoal" },
+	{ "date": "04/01/2024",	"amount": 500.00,	"description": "", "category": "Alimentação" },
+	{ "date": "04/01/2024",	"amount": 500.00,	"description": "", "category": "Contas" },
+	{ "date": "15/01/2024",	"amount": 130.00,	"description": "", "category": "Pessoal" }
+]

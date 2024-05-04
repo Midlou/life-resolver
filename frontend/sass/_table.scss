@@ -1,0 +1,45 @@
+.table-default {
+	@apply overflow-auto default-scrollbar;
+
+	table {
+		@apply w-full;
+	}
+
+	thead {
+		@apply py-3;
+
+		tr {
+			@apply bg-gray-100 border;
+
+			th {
+				@apply px-4 py-2 border uppercase font-semibold text-xs;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				@apply px-4 py-2 border;
+			}
+		}
+	}
+}
+
+.table-default-inline {
+	@apply overflow-auto default-scrollbar;
+
+	table {
+		@apply w-full;
+	}
+
+	tr {
+		th {
+			@apply bg-gray-100 px-4 py-2 border uppercase font-semibold text-xs text-left;
+		}
+
+		td {
+			@apply px-4 py-2 border;
+		}
+	}
+}

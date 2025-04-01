@@ -1,12 +1,12 @@
 # Life Resolver
 
-Life Resolver is an application I developed to streamline and enhance various aspects of my daily life through a collection of useful functions.
+Life Resolver is an app I built years ago to practice the use of React and Inertia, as well some backend architecture techniques. If I were to do it today, I’d approach it completely differently and use other technologies, but at the time, it was a great learning experience. Parts of this project are based on stuff I worked on in college with my friend [Mauricio](https://github.com/Mauricio-L-Souza). The version of the app in this repo is a revised and updated one.
 
 ## Technologies Used
 
-- **Frontend**: Built with React and styled with Tailwind CSS for a sleek and responsive user interface.
-- **Backend**: Powered by Laravel to handle server-side operations efficiently.
-- **Integration**: Utilizes Inertia.js to seamlessly connect the frontend and backend
+- **Frontend**: React, Tailwind CSS.
+- **Backend**: Laravel.
+- **Integration**: Inertia.
 
 ## Architecture
 
